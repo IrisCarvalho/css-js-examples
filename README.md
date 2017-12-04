@@ -1,2 +1,2 @@
-# css-js-examples
+# js-examples
 Some examples of coding 
